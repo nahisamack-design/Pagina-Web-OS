@@ -179,7 +179,7 @@ document
     setTimeout(()=>{
 
         window.location.href=
-        "02-jardin.html";
+        "01-html/02-jardin.html";
 
 
     },2000);
